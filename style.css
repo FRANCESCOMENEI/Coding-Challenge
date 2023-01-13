@@ -1,0 +1,83 @@
+.body{
+    background-image: url(background.jpg);
+    background-size: cover;
+}
+
+.container{
+    width: 4000px;
+    height: 2500px;
+    margin: auto;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+    margin-top: 100px;
+    padding-top: 10px;
+    padding-left: 700px;
+}
+
+.logo{
+    margin-top: 200px;
+    margin-left: 1300px;
+    display: block;
+    width: 1000px;
+}
+
+.logo-text{
+    font-size: 150px;
+    color: rgb(7, 222, 14);
+    text-align: center;
+}
+
+#selection{
+    width: 3200px;
+    height: 150px;
+    text-align: center;
+    background-color: rgb(7, 222, 14);
+}
+
+.button{
+    font-size: 60px;
+    margin-top: 40px;
+    margin-left: 20px;    
+}
+
+.main{
+    margin-top: 80px;
+    color: white;
+}
+
+.checkbox{
+   width : 40px;
+   height: 40px;
+}
+
+.subject{
+    display: inline-block;
+    font-size: 90px;
+    margin-left: 10px;
+}
+
+.address{
+    font-size:  60px;
+    margin-top: 5px;
+}
+
+.charge-arancio{ 
+    width: 800px;
+    height: 50px;
+    background-color: orange;
+    border-radius: 10px;
+}
+
+.charge-green{ 
+    width: 1200px;
+    height: 50px;
+    background-color: rgb(7, 222, 14);
+    border-radius: 10px;
+}
+
+.charge-red{ 
+    width: 400px;
+    height: 50px;
+    background-color: rgb(255, 0, 0);
+    border-radius: 10px;
+}
